@@ -1,0 +1,9 @@
+*.pem
+*.crt
+*.key
+*.csr
+*.req
+*.tar
+*.ovpn
+*~
+.DS_Store
